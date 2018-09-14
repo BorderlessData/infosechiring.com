@@ -1,6 +1,6 @@
 ## About InfosecHiring.com
 
-This is a community run project to make it easier to connect good jobs with people looking for jobs. There are no ads, no fees, just data. The site is managed by volunteers via a [Github repository], and all changes are made via [pull requests](https://github.com/adamcaudill/infosechiring/pulls).
+This is a community run project to make it easier to connect good jobs with people looking for jobs. There are no ads, no fees, just data. The site is managed by volunteers via a [Github repository], and all changes are made via [pull requests](https://github.com/adamcaudill/infosechiring/pulls) or [email](mailto:help@infosechiring.com).
 
 Changes are imported by the contributors as quickly as possible, both additions and removals. There are a few rules that must be followed for listings to be added; this is to ensure that this project connects real people to real companies. No recruiters, no games. See below for the rules this project operates under.
 
@@ -16,6 +16,13 @@ Changes are imported by the contributors as quickly as possible, both additions 
 | Name / Handle | Contact Twitter / Email | Desired Position | Date |
 | ------------- | ----------------------- | ---------------- | ---- |
 | John Doe | jdoe@example.com | Red Team | 2018-09-14 |
+
+
+## Adding an Entry
+
+Entries to this list can be made by creating a [pull request](https://github.com/adamcaudill/infosechiring/pulls) or sending an email to [help@infosechiring.com](mailto:help@infosechiring.com) with all of the needed information. Each entry will be reviewed to ensure that it complies with the rules of this project, and added to the list as time allows.
+
+Remember, this project is run by volunteers, and as such, there may be a delay between submitting a new entry and it being added to the site.
 
 ## Rules
 
