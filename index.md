@@ -1,3 +1,8 @@
+---
+title: InfosecHiring.com
+description: Community Maintained Security Jobs Listings
+---
+
 ## About InfosecHiring.com
 
 This is a community run project to make it easier to connect good jobs with people looking for jobs. There are no ads, no fees, just data. The site is managed by volunteers via a [Github repository](https://github.com/adamcaudill/infosechiring.com/), and all changes are made via [pull requests](https://github.com/adamcaudill/infosechiring.com/pulls) or [email](mailto:help@infosechiring.com).
@@ -8,14 +13,14 @@ Changes are imported by the contributors as quickly as possible, both additions 
 
 | Company | Location | Position | Info | Contact Twitter / Email | Remote | Relocation Assistance | Date |
 | ------- | -------- | -------- | ---- |----------------------- | ------ | --------------------- | -----|
-| Example.com | San Jose, CA | Sr. Security Engineer | [Info](https://example.com/) | jsmith@example.com | Y | Y | 2018-09-14 |
+| Example.com | San Jose, CA | Sr. Security Engineer | [Info](https://example.com/) | jsmith@example.com | Y | Y | 2020-01-03 |
 
 
 ## Job Seekers
 
-| Name / Handle | Contact Twitter / Email | Desired Position | Date |
-| ------------- | ----------------------- | ---------------- | ---- |
-| John Doe | jdoe@example.com | Red Team | 2018-09-14 |
+| Name / Handle | Contact Twitter / Email | Desired Position | Info / Resume | Date |
+| ------------- | ----------------------- | ---------------- | ------------- | ---- |
+| John Doe | jdoe@example.com | Red Team | [Resume](https://example.com/) | 2020-01-04 |
 
 
 ## Adding an Entry
