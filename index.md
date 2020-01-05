@@ -1,14 +1,14 @@
 ## About InfosecHiring.com
 
-This is a community run project to make it easier to connect good jobs with people looking for jobs. There are no ads, no fees, just data. The site is managed by volunteers via a [Github repository], and all changes are made via [pull requests](https://github.com/adamcaudill/infosechiring/pulls) or [email](mailto:help@infosechiring.com).
+This is a community run project to make it easier to connect good jobs with people looking for jobs. There are no ads, no fees, just data. The site is managed by volunteers via a [Github repository](https://github.com/adamcaudill/infosechiring.com/), and all changes are made via [pull requests](https://github.com/adamcaudill/infosechiring.com/pulls) or [email](mailto:help@infosechiring.com).
 
 Changes are imported by the contributors as quickly as possible, both additions and removals. There are a few rules that must be followed for listings to be added; this is to ensure that this project connects real people to real companies. No recruiters, no games. See below for the rules this project operates under.
 
 ## Open Positions
 
-| Company | Location | Position | Contact Twitter / Email | Remote | Relocation Assistance | Date |
-| ------- | -------- | -------- | ----------------------- | ------ | --------------------- | -----|
-| Example.com | San Jose, CA | Sr. Security Engineer | jsmith@example.com | Y | Y | 2018-09-14 |
+| Company | Location | Position | Info | Contact Twitter / Email | Remote | Relocation Assistance | Date |
+| ------- | -------- | -------- | ---- |----------------------- | ------ | --------------------- | -----|
+| Example.com | San Jose, CA | Sr. Security Engineer | [Info](https://example.com/) | jsmith@example.com | Y | Y | 2018-09-14 |
 
 
 ## Job Seekers
@@ -20,7 +20,7 @@ Changes are imported by the contributors as quickly as possible, both additions 
 
 ## Adding an Entry
 
-Entries to this list can be made by creating a [pull request](https://github.com/adamcaudill/infosechiring/pulls) or sending an email to [help@infosechiring.com](mailto:help@infosechiring.com) with all of the needed information. Each entry will be reviewed to ensure that it complies with the rules of this project, and added to the list as time allows.
+Entries to this list can be made by creating a [pull request](https://github.com/adamcaudill/infosechiring.com/pulls) or sending an email to [help@infosechiring.com](mailto:help@infosechiring.com) with all of the needed information. Each entry will be reviewed to ensure that it complies with the rules of this project, and added to the list as time allows.
 
 Remember, this project is run by volunteers, and as such, there may be a delay between submitting a new entry and it being added to the site.
 
@@ -47,4 +47,4 @@ The following rules apply to entries on this site; if any violation is found, th
 
 ## Questions
 
-If you have any questions about this site, open an [issue](https://github.com/adamcaudill/infosechiring/issues) on the project Github page.
+If you have any questions about this site, open an [issue](https://github.com/adamcaudill/infosechiring.com/issues) on the project Github page.
