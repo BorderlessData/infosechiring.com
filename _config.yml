@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: InfoSecHiring.com
-description: Community Maintained Security Jobs Listing
+description: Community Maintained Security Jobs Listings
 
 exclude:
   - CNAME
